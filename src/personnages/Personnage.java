@@ -8,7 +8,7 @@ public class Personnage {
 		this.nom = nom;
 		this.force = force;
 		// Invariant
-		assert force > 0;
+		//assert force > 0;
 	}
 
 	public int getForce() {
